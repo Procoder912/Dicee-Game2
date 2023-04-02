@@ -1,0 +1,36 @@
+body {
+    background-color: #33333D;
+    margin: 0;
+}
+h1 {
+    color: #5ACA9B;
+    font-family: 'Satisfy', cursive;
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 5px 0 #232931;
+}
+.container {
+    color: #5ACA9B;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+.dice {
+    text-align: center;
+    display: inline-block;
+  
+}
+
+.container2 {
+    color: white;
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+}
+
+.label {
+    position: absolute;
+    bottom: 10px;
+    text-align: center;
+    width: 100%;
+}
